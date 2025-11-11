@@ -1,4 +1,4 @@
-// 'used strict'
+ 'used strict'
 
 // ============================================
 // HABIT TRACKER CLI - CHALLENGE 3
